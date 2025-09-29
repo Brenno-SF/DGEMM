@@ -5,6 +5,16 @@ São aplicadas técnicas de otimização como **tiling (blocking)**, **transposi
 
 ---
 
+
+**Universidade:** Universidade Estadual de Santa Cruz  
+**Curso:** Engenharia de Computação / Processamento Paralelo  
+**Disciplina:** DEC107 - Processamento Paralelo  
+**Professor:** Dr. Esbel Tomás Valero Orellana  
+**Alunos:** Brenno S. Florêncio e Mateus Soares  
+**Data:** 28/09/2025 
+
+---
+
 ## 🔧 Compilação
 
 Compile o código no Linux com o comando:
