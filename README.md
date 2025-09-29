@@ -79,8 +79,3 @@ Difference with 12 threads: 0.000000e+00
 - **OpenMP** → paralelização do loop externo com `#pragma omp parallel for collapse(2)`.
 
 ---
-
-## 📖 Referência
-
-- McCalpin, J. D. *An optimized DGEMM for modern cache-based architectures*.  
-  Disponível em: <https://m-sp.org/downloads/cse260_a1.pdf>.  
